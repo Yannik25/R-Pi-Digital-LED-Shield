@@ -1,7 +1,9 @@
 # R-Pi-Digital-LED-Shield
 
 Created with KiCad
- 
+
+Main purpose for me was to use this board with my 3D Printer with [OctoPrint](https://octoprint.org) and this add-on: [ws281x-led-status](https://cp2004.gitbook.io/ws281x-led-status/) but will also work with: [rpi_ws281x](https://github.com/jgarff/rpi_ws281x) and similar Software.
+
 ## Current status: Designed 
  
 ## Features
@@ -17,4 +19,4 @@ Created with KiCad
 
 ## Contributions
 
-Feel free to open Pull Requests here
+Feel free to open Pull Requests or Issues
