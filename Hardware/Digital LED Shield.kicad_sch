@@ -2399,7 +2399,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 893674fc-4f39-4e3b-8333-425fcaa60382)
     (property "Reference" "R2" (id 0) (at 53.34 129.54 90))
-    (property "Value" "R" (id 1) (at 53.34 132.08 90))
+    (property "Value" "1k" (id 1) (at 53.34 132.08 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 53.34 137.668 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2497,7 +2497,7 @@
     (property "Reference" "C4" (id 0) (at 214.63 136.2709 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C_Polarized" (id 1) (at 214.63 138.8109 0)
+    (property "Value" "10uF" (id 1) (at 214.63 138.8109 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" (id 2) (at 211.7852 142.24 0)
@@ -2834,7 +2834,7 @@
       (reference "C3") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/a3108c40-70ec-47c8-a063-e90dda858ab8"
-      (reference "C4") (unit 1) (value "C_Polarized") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
+      (reference "C4") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
     )
     (path "/73e6ff64-8915-4bf2-8341-ad1e32b02655"
       (reference "D1") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
@@ -2870,7 +2870,7 @@
       (reference "R1") (unit 1) (value "150") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/893674fc-4f39-4e3b-8333-425fcaa60382"
-      (reference "R2") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R2") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/23b875db-d2ae-47f5-8c5a-f411ad1dfc31"
       (reference "R3") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
