@@ -1,5 +1,3 @@
-
-*.zip
 .DS_Store
 *.kicad_prl
 Digital LED Shield/fp-info-cache
